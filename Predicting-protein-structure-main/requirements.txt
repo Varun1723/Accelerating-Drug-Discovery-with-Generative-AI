@@ -1,0 +1,4 @@
+streamlit
+stmol==0.0.9
+py3Dmol
+biotite
