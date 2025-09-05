@@ -21,6 +21,7 @@ Our assistant provides a powerful set of functionalities to streamline the drug 
 
 The project is organized into modular components, each addressing a specific part of the drug discovery process.
 
+```
 ├── ACCELERATING-DRUG-DISCOVERY-WITH-GEN...
 │   ├── Molecule_2D_Structure_Predicting
 │   │   ├── code1.py
@@ -41,7 +42,7 @@ The project is organized into modular components, each addressing a specific par
 │       ├── README.md
 │       └── requirements.txt
 └── README.md
-
+```
 
 ---
 
