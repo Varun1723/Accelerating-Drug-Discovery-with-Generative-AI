@@ -1,12 +1,12 @@
 # Accelerating Drug Discovery with Generative AI
 
-## Project Overview
+## 📁 Project Overview
 
 This project, developed for the GDG Solution Challenge 2025, tackles the significant hurdles in traditional drug discovery: high costs, long timelines, and a high failure rate. Our solution, the **Drug Discovery Assistant**, is a user-friendly and scalable tool powered by Generative AI. It aims to revolutionize the process by enabling researchers to efficiently identify, design, and optimize potential drug candidates. By doing so, we aim to reduce the time and cost associated with traditional methods and improve overall success rates.
 
 ---
 
-## Features
+## ✨ Features
 
 Our assistant provides a powerful set of functionalities to streamline the drug discovery pipeline:
 
@@ -17,7 +17,7 @@ Our assistant provides a powerful set of functionalities to streamline the drug 
 
 ---
 
-## Project Structure
+## 📂 Repository Structure
 
 The project is organized into modular components, each addressing a specific part of the drug discovery process.
 
@@ -46,7 +46,7 @@ The project is organized into modular components, each addressing a specific par
 
 ---
 
-## Technical Stack
+## 💻 Technical Stack
 
 This project uses a variety of powerful libraries and frameworks to build its core functionalities:
 
@@ -60,7 +60,7 @@ This project uses a variety of powerful libraries and frameworks to build its co
 
 ---
 
-## Installation and Usage
+## ⚙️ Installation and Usage
 
 To get the project running locally, follow these steps:
 
@@ -82,6 +82,6 @@ To get the project running locally, follow these steps:
 
 ---
 
-## License
+## 📜 License
 
 This project is licensed under the MIT License.
